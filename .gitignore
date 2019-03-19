@@ -62,3 +62,17 @@ packer_virtualbox-ovf_virtualbox.box
 **/target/*
 
 .credentials
+
+#Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.recommenders
